@@ -1,4 +1,4 @@
-# FlexHome - Laravel Real Estate multilingual system
+# HASA - Multipurpose Laravel Fashion Shop
 
 - [Introduction](#introduction)
 - [Demo](#demo)
