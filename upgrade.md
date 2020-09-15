@@ -12,7 +12,7 @@
     - Delete folder `/vendor` then run `composer install` to upgrade vendor packages.
     - Run `php artisan migrate` to update database.
     
-For non-developer:
+- For non-developer:
     - Override folder `/vendor` from the latest version.
     - Go to Admin -> Plugins then deactivate plugin Ecommerce then re-activate it.
     
