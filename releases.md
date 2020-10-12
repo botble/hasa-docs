@@ -12,12 +12,9 @@
 - Add taxes.
 - Make single checkout page.
 - Add seeders: generate products with variations, product categories, product collections...
-- Fix bug wrong image/price when adding to cart from homepage.
 - Fix UI payment form.
 - Fix filter price: display price with current currency.
-- Fix search products.
 - Update Laravel to version 7.28.4
-- Update newsletter popup, it will hide in 1 hour after it closed.
 - Update recaptcha: add option to hide badge.
 - Improve theme UI & make it loads faster.
 
