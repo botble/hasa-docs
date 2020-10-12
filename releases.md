@@ -1,9 +1,25 @@
 # Release Notes
 
+- [Hasa 1.3](#version_1_3)
 - [Hasa 1.2](#version_1_2)
 - [Hasa 1.1](#version_1_1)
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
+
+## Hasa 1.3
+### 12-10-2020
+
+- Add taxes.
+- Make single checkout page.
+- Add seeders: generate products with variations, product categories, product collections...
+- Fix bug wrong image/price when adding to cart from homepage.
+- Fix UI payment form.
+- Fix filter price: display price with current currency.
+- Fix search products.
+- Update Laravel to version 7.28.4
+- Update newsletter popup, it will hide in 1 hour after it closed.
+- Update recaptcha: add option to hide badge.
+- Improve theme UI & make it loads faster.
 
 ## Hasa 1.2
 ### 15-09-2020
