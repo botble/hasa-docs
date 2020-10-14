@@ -9,17 +9,17 @@
 ## Hasa 1.3
 ### 12-10-2020
 
-- Add taxes.
 - Make single checkout page.
+- Add taxes.
+- Add export products, orders to CSV, Excel.
 - Add seeders: generate products with variations, product categories, product collections...
 - Fix UI payment form.
 - Fix filter price: display price with current currency.
-- Update Laravel to version 7.28.4
-- Update recaptcha: add option to hide badge.
-- Improve theme UI & remove unused CSS to make it loads faster.
 - Fix bugs when adding product to cart.
-- Fix 404 not found issue when clicking on customer's name on reviews listing page.
-- Add export products, orders to csv, excel.
+- Fix 404 not found issue when clicking on the customer's name on the reviews listing page.
+- Update Laravel to version 7.28.4
+- Update Recaptcha: add an option to hide badge.
+- Improve theme UI & remove unused CSS to make it loads faster.
 - Update to Botble CMS 5.9.
 
 ## Hasa 1.2
