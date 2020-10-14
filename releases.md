@@ -7,7 +7,7 @@
 - [Hasa 1.0](#version_1_0)
 
 ## Hasa 1.3
-### 12-10-2020
+### Oct 15, 2020
 
 - Make single checkout page.
 - Add taxes.
@@ -23,7 +23,7 @@
 - Update to Botble CMS 5.9.
 
 ## Hasa 1.2
-### 15-09-2020
+### Sep 15, 2020
 
 - Update to Laravel version 7.28
 - Add settings to disable shopping cart.
@@ -46,7 +46,7 @@
 - Fix copy folder in Admin -> Media.
 
 ## Hasa 1.1
-### 05-08-2020
+### Aug 05, 2020
 - Upgrade to the latest Laravel framework version 7.22.
 - Deprecated some media functions: `is_image`, `get_image_url`, `get_object_image`, `rv_media_handle_upload`. 
   Replacements: `RvMedia::isImage()`, `RvMedia::getImageUrl()`, `RvMedia::handleUpload()`.
@@ -63,23 +63,24 @@
         - If you don't want to use it, you can deactivate or remove that plugins in Admin -> Plugins.
         - Razorpay just displays on checkout page if your amount < ₹5,00,000 (Check maximum payment amount here: https://razorpay.com/docs/payment-pages/faqs)
         - Paystack payment method just displays on checkout page if your currency is NGN https://prnt.sc/ttlcqz
-        
+     
+ <a name="version_1_0_2"></a>   
 ## Hasa 1.0.2
-### 09-07-2020
+### Jul 09, 2020
 
 - Add support DigitalOcean Spaces
 - Improve UI.
 
 <a name="version_1_0_1"></a>
 ## Hasa 1.0.1
-### 2020-07-07
-    - Support Recaptcha v3 for contact form, newsletter form.
-    - Fix bug when adding a product to cart.
-    - Auto select default variation: color, size...
-    - Improve UI.
-    - Add popup confirmation when removing a product from cart.
+### Jul 07, 2020
+- Support Recaptcha v3 for contact form, newsletter form.
+- Fix bug when adding a product to cart.
+- Auto select default variation: color, size...
+- Improve UI.
+- Add popup confirmation when removing a product from cart.
     
 <a name="version_1_0"></a>
 ## Hasa 1.0
 ### 2020-06-28
-    - Initial release version 1.0
+- Initial release version 1.0
