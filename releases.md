@@ -16,7 +16,11 @@
 - Fix filter price: display price with current currency.
 - Update Laravel to version 7.28.4
 - Update recaptcha: add option to hide badge.
-- Improve theme UI & make it loads faster.
+- Improve theme UI & remove unused CSS to make it loads faster.
+- Fix bugs when adding product to cart.
+- Fix 404 not found issue when clicking on customer's name on reviews listing page.
+- Add export products, orders to csv, excel.
+- Update to Botble CMS 5.9.
 
 ## Hasa 1.2
 ### 15-09-2020
