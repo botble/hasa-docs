@@ -6,15 +6,21 @@
 
 <a name="version_1_3"></a>
 ## Upgrade to version 1.3
-- Override folder `app`, `bootstrap`, `config`, `platform`, `public/themes`, `public/vendor` and `resources` from the latest version.
+
+- Override folder `app`, `config`, and `platform` from the latest version.
 
 - For developers:
     - Update file `composer.json` and `composer.lock` from new source code.
     - Delete folder `/vendor` then run `composer install` to upgrade vendor packages.
-    - Run `php artisan migrate` to update database.
+    - Delete folder `public/vendor` and run command `php artisan vendor:publish --tag=cms-public --force`
+    - Delete folder `public/themes` and run command `php artisan cms:theme:assets:publish`
+    - Run command `php artisan vendor:publish --tag=cms-lang --force` to update translations.
+    - Run `php artisan optimize:clear` to clear cache.
     
 - For non-developers:
-    - Override folder `/vendor` from the latest version.
+    - Override folder `public/themes`, `public/vendor`, `bootstrap`, `vendor` from the latest version.
+    - Delete all files in `storage/framework/views` and `storage/framework/cache`.
+    - Go to Admin -> Translations -> Admin translations then click on `Import group` to update translations.
     - Go to Admin -> Plugins then deactivate plugin Ecommerce then re-activate it.
     
 - Go to Admin -> Pages -> Edit homepage's content to:
