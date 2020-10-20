@@ -6,6 +6,12 @@
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
 
+## Hasa 1.3.1
+### Oct 20, 2020
+- Improve queries.
+- Update UI.
+- Fix minor bugs.
+
 ## Hasa 1.3
 ### Oct 15, 2020
 
