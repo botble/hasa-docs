@@ -1,10 +1,19 @@
 # Release Notes
 
+- [Hasa 1.3.2](#version_1_3.2)
+- [Hasa 1.3.1](#version_1_3.1)
 - [Hasa 1.3](#version_1_3)
 - [Hasa 1.2](#version_1_2)
 - [Hasa 1.1](#version_1_1)
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
+
+## Hasa 1.3.2
+### Oct 23, 2020
+- Add multi-currency support.
+- Fix bug wrong quantity in incomplete order recovery.
+- Fix update customer's email from admin panel.
+- Fix bug when activating plugin Ecommerce.
 
 ## Hasa 1.3.1
 ### Oct 20, 2020
