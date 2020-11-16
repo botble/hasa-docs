@@ -24,7 +24,7 @@
 - Optimize queries on menu & widgets, cache menu URL for better performance.
 - Update Cookie consent: Add option to change background color, text color.
 - Update error pages, make it more beautiful.
-- Update UI contact form, galleries.
+- Update UI contact form.
 - Improve permalink & custom CSS page.
 - Improve Analytics plugin, make it compatible with PHP 7.4.
 - Fix small bugs.
