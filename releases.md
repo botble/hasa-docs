@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Hasa 1.4](#version_1_4)
 - [Hasa 1.3.2](#version_1_3.2)
 - [Hasa 1.3.1](#version_1_3.1)
 - [Hasa 1.3](#version_1_3)
@@ -7,6 +8,27 @@
 - [Hasa 1.1](#version_1_1)
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
+
+## Hasa 1.4
+### Nov 16, 2020
+- Add RTL support.
+- Add "Quick Buy" button.
+- Add shortcode to display all brands and all products.
+- Display product attributes on cart, email.
+- Display error/success message in the cart page.
+- Fix checkout page when customer is logged already.
+- Fix shipping rules, order detail, store locators.
+- Fix missing order address when creating order from admin.
+- Fix theme translations: new keys in English doesn't show in other languages.
+- Fix IP in activity logs, allow IP v6.
+- Optimize queries on menu & widgets, cache menu URL for better performance.
+- Update Cookie consent: Add option to change background color, text color.
+- Update error pages, make it more beautiful.
+- Update UI contact form, galleries.
+- Improve permalink & custom CSS page.
+- Improve Analytics plugin, make it compatible with PHP 7.4.
+- Fix small bugs.
+- Refactor code.
 
 ## Hasa 1.3.2
 ### Oct 23, 2020
