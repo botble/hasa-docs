@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Hasa 1.5](#version_1_5)
 - [Hasa 1.4](#version_1_4)
 - [Hasa 1.3.2](#version_1_3.2)
 - [Hasa 1.3.1](#version_1_3.1)
@@ -8,6 +9,22 @@
 - [Hasa 1.1](#version_1_1)
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
+
+## Hasa 1.5
+### Dec 14, 2020
+- Add Up-sell products.
+- Add option to disable taxes.
+- Fix shipping fee in the checkout page.
+- Fix create a customer from admin panel.
+- Improve Cookie Consent plugin.
+- Improve responsive.
+- Update translations, added missing keys.
+- Improve DO Spaces integration.
+- Fix roles & permissions.
+- Update front theme UI.
+- Update seeders, easy to generate sample data using command db:seed.
+- Update setting page & system info.
+- Optimize page speed and performance.
 
 ## Hasa 1.4
 ### Nov 16, 2020
