@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Hasa 1.6](#version_1_6)
 - [Hasa 1.5](#version_1_5)
 - [Hasa 1.4](#version_1_4)
 - [Hasa 1.3.2](#version_1_3.2)
@@ -9,6 +10,15 @@
 - [Hasa 1.1](#version_1_1)
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
+
+<a name="version_1_3"></a>
+## Hasa 1.6
+### Jan 12, 2021
+- Add Mollie payment gateway.
+- Fix bug product quantity for incomplete orders.
+- Update translations.
+- Optimize queries to improve performance.
+- Update UI.
 
 ## Hasa 1.5
 ### Dec 14, 2020
