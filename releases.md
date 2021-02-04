@@ -11,6 +11,20 @@
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
 
+<a name="version_1_7"></a>
+## Hasa 1.7
+### Feb 04, 2021
+- Upgrade to Laravel 8.
+- Improve permalinks.
+- Allow deleting products after it's purchased by customers.
+- Prevent error when deleting a product that is added into the cart.
+- Prevent access to Ajax URLs directly.
+- Optimize checkout speed.
+- Fix bug when updating flash sales.
+- Fix E-commerce settings and add settings for thousands and decimal separators.
+- Fix the order's amount when creating from the admin panel.
+- Fix permission issue.
+
 <a name="version_1_3"></a>
 ## Hasa 1.6
 ### Jan 12, 2021
