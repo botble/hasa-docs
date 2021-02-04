@@ -143,7 +143,7 @@
         - Razorpay just displays on checkout page if your amount < ₹5,00,000 (Check maximum payment amount here: https://razorpay.com/docs/payment-pages/faqs)
         - Paystack payment method just displays on checkout page if your currency is NGN https://prnt.sc/ttlcqz
      
- <a name="version_1_0_2"></a>   
+<a name="version_1_0_2"></a>   
 ## Hasa 1.0.2
 ### Jul 09, 2020
 
