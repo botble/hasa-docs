@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Hasa 1.7](#version_1_7)
 - [Hasa 1.6](#version_1_6)
 - [Hasa 1.5](#version_1_5)
 - [Hasa 1.4](#version_1_4)
@@ -25,7 +26,7 @@
 - Fix the order's amount when creating from the admin panel.
 - Fix permission issue.
 
-<a name="version_1_3"></a>
+<a name="version_1_6"></a>
 ## Hasa 1.6
 ### Jan 12, 2021
 - Add Mollie payment gateway.
