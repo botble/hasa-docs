@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Hasa 1.8](#version_1_8)
 - [Hasa 1.7](#version_1_7)
 - [Hasa 1.6](#version_1_6)
 - [Hasa 1.5](#version_1_5)
@@ -11,6 +12,20 @@
 - [Hasa 1.1](#version_1_1)
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
+
+<a name="version_1_8"></a>
+## Hasa 1.8
+### Feb 18, 2021
+
+- Add option to display product price including taxes.
+- Add option to set available countries. Check Admin -> Ecommerce -> Settings.
+- Update list countries. Add Kosovo.
+- Improve product reviews
+- Improve page SEO meta.
+- Fix calculate shipping fee.
+- Fix Custom CSS.
+- Fix bug Editor on PHP 8.
+- Refactor code & improve queries for better performance.
 
 <a name="version_1_7"></a>
 ## Hasa 1.7
