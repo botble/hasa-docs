@@ -1,5 +1,6 @@
 # Upgrade Guide
 
+- [Upgrade to HASA 1.8](#version_1_8)
 - [Upgrade to HASA 1.7](#version_1_7)
 - [Upgrade to HASA 1.6](#version_1_6)
 - [Upgrade to HASA 1.5](#version_1_5)
