@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Hasa 1.9](#version_1_9)
 - [Hasa 1.8](#version_1_8)
 - [Hasa 1.7](#version_1_7)
 - [Hasa 1.6](#version_1_6)
@@ -12,6 +13,20 @@
 - [Hasa 1.1](#version_1_1)
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
+
+<a name="version_1_9"></a>
+## Hasa 1.9
+### Mar 01, 2021
+- Add SSLCommerz payment gateway.
+- New option to add custom JS in Admin -> Appearance -> Custom JS.
+- Change product SKU when changing product attribute.
+- Improve dashboard widgets.
+- Improve payment gateways.
+- Improve order tracking.
+- Fix permission issue on Contact plugin.
+- Fix invoice with Euro sign.
+- Fix flash messages.
+- Fix apply coupon in checkout recovery.
 
 <a name="version_1_8"></a>
 ## Hasa 1.8
