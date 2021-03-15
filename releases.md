@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Hasa 1.10](#version_1_10)
 - [Hasa 1.9](#version_1_9)
 - [Hasa 1.8](#version_1_8)
 - [Hasa 1.7](#version_1_7)
@@ -13,6 +14,20 @@
 - [Hasa 1.1](#version_1_1)
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
+
+<a name="version_1_10"></a>
+## HASA 1.10
+### Mar 15, 2021
+- Improve SSLCommerz payment gateway.
+- Improve currency and display product's quantity in product listing.
+- Update dashboard widgets for eCommerce purpose.
+- Update email templates.
+- Fix cart image when product variation has no image.
+- Fix bug create order from the admin panel.
+- Fix bug Serialization of 'GdImage' is not allowed.
+- Fix Mollie payment when amount > 1000.
+- Fix permission issues.
+- Prevent process order many times.
 
 <a name="version_1_9"></a>
 ## Hasa 1.9
