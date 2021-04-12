@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Hasa 1.11](#version_1_11)
 - [Hasa 1.10](#version_1_10)
 - [Hasa 1.9](#version_1_9)
 - [Hasa 1.8](#version_1_8)
@@ -14,6 +15,18 @@
 - [Hasa 1.1](#version_1_1)
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
+
+<a name="version_1_11"></a>
+## HASA 1.11
+### Apr 12, 2021
+- Add gallery images. 
+- Improve UI & allow modify email templates for verify account email and reset password.
+- Improve filter products, allow search by tags.
+- Add option to turn off automatic URL translation into Latin.
+- Add command to rename the theme to the new name.
+- Add option to force URL & schema.
+- Improve email templates.
+- Refactor code & optimize performance.
 
 <a name="version_1_10"></a>
 ## HASA 1.10
