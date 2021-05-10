@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Hasa 1.12](#version_1_12)
 - [Hasa 1.11](#version_1_11)
 - [Hasa 1.10](#version_1_10)
 - [Hasa 1.9](#version_1_9)
@@ -15,6 +16,17 @@
 - [Hasa 1.1](#version_1_1)
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
+
+<a name="version_1_12"></a>
+## HASA 1.12
+### May 10, 2021
+- Improve theme UI.
+- Fix change user's password.
+- Fix bug customer address when zip code empty
+- Remove unused services in Google Client API services to reduce app size.
+- Update theme options & handle errors when saving custom CSS.
+- Optimize queries.
+- Refactor code & improve performance.
 
 <a name="version_1_11"></a>
 ## HASA 1.11
