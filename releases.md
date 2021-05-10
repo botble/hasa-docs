@@ -20,6 +20,7 @@
 <a name="version_1_12"></a>
 ## HASA 1.12
 ### May 10, 2021
+- Add product labels.
 - Improve theme UI.
 - Fix change user's password.
 - Fix bug customer address when zip code empty
