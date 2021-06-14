@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Hasa 1.13](#version_1_13)
 - [Hasa 1.12](#version_1_12)
 - [Hasa 1.11](#version_1_11)
 - [Hasa 1.10](#version_1_10)
@@ -16,6 +17,24 @@
 - [Hasa 1.1](#version_1_1)
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
+
+<a name="version_1_13"></a>
+## HASA 1.13
+### June 14, 2021
+- Added RTL support for the admin panel.
+- Added bulk deletes for product variations & optimize create all variations.
+- Improve product swatches: disable not available options.
+- Display out of stock badge.
+- Fix payment gateways.
+- Fix product's quantity & stock status
+- Fix shipping when only 1 country available.
+- Fix discount.
+- Fix gallery shortcode.
+- Fix some errors on PHP 8.
+- Improve media, fix some errors with SVG.
+- Improve UI.
+- Optimize queries.
+- Refactor code & improve performance.
 
 <a name="version_1_12"></a>
 ## HASA 1.12
