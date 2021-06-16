@@ -20,7 +20,7 @@
 
 <a name="version_1_13"></a>
 ## HASA 1.13
-### June 14, 2021
+### Jun 16, 2021
 - Added RTL support for the admin panel.
 - Added bulk deletes for product variations & optimize create all variations.
 - Improve product swatches: disable not available options.
