@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Hasa 1.14](#version_1_14)
 - [Hasa 1.13](#version_1_13)
 - [Hasa 1.12](#version_1_12)
 - [Hasa 1.11](#version_1_11)
@@ -17,6 +18,25 @@
 - [Hasa 1.1](#version_1_1)
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
+
+<a name="version_1_14"></a>
+## HASA 1.14
+### Jul 13, 2021
+- Add an option to disable guest checkout.
+- Add minimum order amount setting.
+- Add Wasabi cloud storage support.
+- Disable auto-generate product SKU.
+- Fix product permalinks.
+- Fix order address.
+- Fix Razorpay payment gateway.
+- Improve checkout process.
+- Remove unused translations.
+- Allow to config the default placeholder image.
+- Improve media, translations & backup.
+- Improve UI.
+- Optimize queries.
+- Refactor code & improve performance.
+- Fix some bugs on PHP 8.
 
 <a name="version_1_13"></a>
 ## HASA 1.13
