@@ -33,7 +33,6 @@
 - Improve email templates.
 - Ajax update cart.
 - Fix missing translations.
-- Fix shipping fees for stores.
 
 <a name="version_1_14"></a>
 ## HASA 1.14
