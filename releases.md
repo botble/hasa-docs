@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Hasa 1.15](#version_1_15)
 - [Hasa 1.14](#version_1_14)
 - [Hasa 1.13](#version_1_13)
 - [Hasa 1.12](#version_1_12)
@@ -18,6 +19,21 @@
 - [Hasa 1.1](#version_1_1)
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
+
+<a name="version_1_15"></a>
+## HASA 1.15
+### Jul 27, 2021
+- Update CKEditor and TinyMCE to the latest version (version 5).
+- Update media: Add a button to download media files from URL.
+- Able to add multiple admin emails in Admin -> Settings -> General.
+- Big change on blog categories & product categories. Hierarchical tree structured category https://prnt.sc/1g4ht0w.
+- Prevent clear cart after logging out.
+- Add PayPal & Stripe refund.
+- Improve currencies setting. Prevent error when deleting the default currency.
+- Improve email templates.
+- Ajax update cart.
+- Fix missing translations.
+- Fix shipping fees for stores.
 
 <a name="version_1_14"></a>
 ## HASA 1.14
