@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Hasa 1.16](#version_1_16)
 - [Hasa 1.15](#version_1_15)
 - [Hasa 1.14](#version_1_14)
 - [Hasa 1.13](#version_1_13)
@@ -19,6 +20,31 @@
 - [Hasa 1.1](#version_1_1)
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
+
+<a name="version_1_16"></a>
+## HASA 1.16
+### Aug 23, 2021
+- Fix social login.
+- Fix Contact plugin with the new editor.
+- Fix permission issues.
+- Fix currency settings.
+- Fix checkout recovery.
+- Fix display product variant image on checkout or order detail page.
+- Fix Mollie payment gateway (handle when customer cancel payment).
+- Fix Razorpay (correct amount with shipping fee).
+- Add Bulk Import Products from CSV/Excel.
+- Add search products by brand.
+- Add order delivery notes.
+- Add sticky header.
+- Add filter products by category in Admin -> Ecommerce -> Products.
+- Improve eCommerce reports page.
+- Improve discount & create order (make it translatable).
+- Improve shortcode. Make it easier to modify added shortcodes.
+- Improve editor & clean XSS.
+- Update email templates.
+- Update to the latest Laravel version 8.55.0
+- Improve core.
+- Optimize queries performance.
 
 <a name="version_1_15"></a>
 ## HASA 1.15
