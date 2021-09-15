@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Hasa 1.17](#version_1_17)
 - [Hasa 1.16](#version_1_16)
 - [Hasa 1.15](#version_1_15)
 - [Hasa 1.14](#version_1_14)
@@ -20,6 +21,34 @@
 - [Hasa 1.1](#version_1_1)
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
+
+<a name="version_1_17"></a>
+## HASA 1.17
+### Sep 15, 2021
+- Add multi-language support.
+- Add flash sales.
+- Add product review images.
+- Add weekly abandoned carts email notifications
+- Add minimum order amount for COD.
+- Fix get products by category & breadcrumb.
+- Fix layout when disabling review.
+- Fix theme migration & issue when activating plugin Language.
+- Fix admin email.
+- Fix cache issue in media.
+- Clear data when deleting customer.
+- Improve product categories widgets.
+- Improve product categories dropdown (allow adding custom image for icon).
+- Improve invoice. Add setting to change font family for invoices.
+- Improve payment gateways.
+- Improve CKEditor.
+- Improve theme custom CSS/JS.
+- Improve allowed iframe types.
+- Handle TokenMismatchException.
+- Prevent error when missing watermark image.
+- Update to the latest Laravel version 8.60.0
+- Improve UI.
+- Improve core.
+- Optimize queries performance.
 
 <a name="version_1_16"></a>
 ## HASA 1.16

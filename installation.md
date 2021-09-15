@@ -21,6 +21,15 @@
 - Module Re_write server
 - PHP_CURL Module Enable
 
+## PHP Configuration
+Open your php configuration file php.ini and change the following settings.
+```bash
+memory_limit = 64M
+max_execution_time = 300
+```
+
+If you are using Cpanel, you can follow this article to change your PHP memory limit settings https://chemicloud.com/kb/article/how-to-increase-the-php-memory-limit-in-cpanel/
+
 >  {warning} On this project, we're using the latest Laravel version (currently 8.x). Please go to [Laravel documentation page](https://laravel.com/docs) for more information.
 
 > It’s based on Laravel framework, the root folder for it is /public. You shouldn’t install it on a sub-folder, use sub-domain is better than sub-folder. (we won’t support to install our product on sub-folder).
@@ -64,3 +73,13 @@
     - Go to `/admin` to access to admin panel.
     - If you're using sample data, the default admin account is `botble` - `159357`.
     - If you don't use sample data, you need to go to Admin -> Plugins then activate all plugins.
+
+## Setup cron job
+
+Cronjob is used to send emails abandoned carts notification automatically every week. You can ignore this step if you don't need that feature.
+
+```bash
+* * * * * cd /path-to-your-project && php artisan schedule:run >> /dev/null 2>&1
+```
+
+Setup cron job in Cpanel: https://help.fasthosts.co.uk/app/answers/detail/a_id/2198/~/setting-up-cron-jobs-in-cpanel
