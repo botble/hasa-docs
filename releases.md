@@ -25,7 +25,7 @@
 
 <a name="version_1_18"></a>
 ## HASA 1.18
-### Oct 15, 2021
+### Oct 19, 2021
 - Upgrade admin theme to Bootstrap 5.
 - Add system updater. 1-click update to the latest version.
 - Add BunnyCDN cloud storage.
