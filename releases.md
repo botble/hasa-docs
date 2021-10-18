@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Hasa 1.18](#version_1_18)
 - [Hasa 1.17](#version_1_17)
 - [Hasa 1.16](#version_1_16)
 - [Hasa 1.15](#version_1_15)
@@ -21,6 +22,27 @@
 - [Hasa 1.1](#version_1_1)
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
+
+<a name="version_1_18"></a>
+## HASA 1.18
+### Oct 15, 2021
+- Upgrade admin theme to Bootstrap 5.
+- Add system updater. 1-click update to the latest version.
+- Add BunnyCDN cloud storage.
+- Improve PayPal & Razorpay. Display warning if the current currency isn't supported by PayPal / Razorpay.
+- Improve invoice template.
+- Fix checkout page, apply coupon.
+- Fix bug admin email, login backgrounds.
+- Fix missing translations.
+- Fix bug display wrong days in flash sales.
+- Make phone field at the checkout optional.
+- Update to the latest Laravel version 8.64.0
+- Improve multi-language.
+- Improve RTL mode.
+- Improve UI & Editors.
+- Improve cookie consent (Added minimal style).
+- Improve core.
+- Optimize queries performance.
 
 <a name="version_1_17"></a>
 ## HASA 1.17
