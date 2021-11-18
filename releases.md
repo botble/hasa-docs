@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Hasa 1.19](#version_1_19)
 - [Hasa 1.18](#version_1_18)
 - [Hasa 1.17](#version_1_17)
 - [Hasa 1.16](#version_1_16)
@@ -22,6 +23,35 @@
 - [Hasa 1.1](#version_1_1)
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
+
+<a name="version_1_19"></a>
+## HASA 1.19
+### Nov 18, 2021
+- Added some events (order confirmed, order completed, payment completed, order cancelled…) in source code (for developers).
+- Added FAQ to product detail page
+- Show confirmation box when delete user address.
+- Fix bullets list style in the editor.
+- Fix admin bar setting.
+- Fix product categories shortcode.
+- Fix Stripe payment gateway in non-decimal currencies.
+- Fix UI issue with select2 fields.
+- Fix UI checkout page.
+- Fix update customer’s avatar.
+- Fix update shipping status.
+- Fix some small issues when upgrading to Bootstrap 5.
+- Improve reviews: display review images in the admin panel.
+- Improve multi-language.
+- Improve plugin Language & Language Advanced.
+- Improve product categories.
+- Improve shortcode.
+- Improve search.
+- Improve Razorpay.
+- Improve plugin Analytics.
+- Improve core & UI.
+- Improve RTL mode.
+- Validate CSV/Excel file before importing products.
+- Update to the latest Laravel version 8.72.0.
+- Optimize queries performance.
 
 <a name="version_1_18"></a>
 ## HASA 1.18
