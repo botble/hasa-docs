@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Hasa 1.20](#version_1_20)
 - [Hasa 1.19](#version_1_19)
 - [Hasa 1.18](#version_1_18)
 - [Hasa 1.17](#version_1_17)
@@ -23,6 +24,25 @@
 - [Hasa 1.1](#version_1_1)
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
+
+<a name="version_1_20"></a>
+## HASA 1.20
+### Dec 22, 2021
+- Fixed saving meta box data.
+- Fixed issue when delete products from flash sales.
+- Fixed bulk change product category.
+- Fixed currency settings.
+- Fixed social login settings.
+- Fixed filter by price.
+- Added export products to CSV.
+- Added missing column Content in product import and improve search in admin panel.
+- Added option to update shipping status in order details page.
+- Added option to disable order invoice until order confirmed.
+- Added option to enable/disable Captcha in registration page.
+- Added VAT number & update invoice template.
+- Improve search products.
+- Improve multi-language.
+- Improve editor & media.
 
 <a name="version_1_19"></a>
 ## HASA 1.19

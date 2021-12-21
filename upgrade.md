@@ -22,6 +22,17 @@
 - [Upgrade to HASA 1.2](#version_1_2)
 - [Upgrade to HASA 1.1](#version_1_1)
 
+<a name="version_1_20"></a>
+## Upgrade to version 1.20
+
+- Option 1 (Auto update): Go to Admin -> System Administration -> System Updater and click "Download & install update".
+
+- Option 2 (Manual update):
+  - Override folder `app`, `database`, `config`, `platform`, `public/themes`, `public/vendor`, `bootstrap`, `vendor`, `composer.json`, `composer.lock` and `public/index.php` from the latest version.
+  - Go to Admin -> Platform Administration -> Cache management then clear all caches.
+  - Go to Admin -> Plugins: deactivate plugin `Blog`, `FAQ`, `Gallery`, `Language`, `Language Advanced`, & `Ecommerce` then activate them again.
+  - Go to Admin -> Translations -> Other translations then click on `Import group` to update translations.
+
 <a name="version_1_19"></a>
 ## Upgrade to version 1.19
 
