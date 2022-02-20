@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Hasa 1.21](#version_1_21)
 - [Hasa 1.20](#version_1_20)
 - [Hasa 1.19](#version_1_19)
 - [Hasa 1.18](#version_1_18)
@@ -24,6 +25,25 @@
 - [Hasa 1.1](#version_1_1)
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
+
+<a name="version_1_21"></a>
+## HASA 1.21
+### Feb 21, 2022
+- Add option to change city/state to dropdown. Check docs: [Location](usage-location.md).
+- Fix product price on homepage blocks.
+- Fix issue with Cloudflare SSL.
+- Fix tree category & social links.
+- Fix duplicate shortcode in CKEditor.
+- Fix saving SEO meta tags.
+- Update product import template.
+- Improve invoice.
+- Improve license.
+- Improve permalink.
+- Improve dashboard widgets.
+- Improve core.
+- Prevent Method Not Allowed error when use ajax DELETE/PUT.
+- Add schema for post & page.
+- Update AWS S3 settings.
 
 <a name="version_1_20"></a>
 ## HASA 1.20
