@@ -1,5 +1,6 @@
 # Release Notes
 
+- [Hasa 1.22](#version_1_22)
 - [Hasa 1.21](#version_1_21)
 - [Hasa 1.20](#version_1_20)
 - [Hasa 1.19](#version_1_19)
@@ -25,6 +26,20 @@
 - [Hasa 1.1](#version_1_1)
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
+
+<a name="version_1_22"></a>
+## HASA 1.22
+### Mar 22, 2022
+- Fix order creation.
+- Fix order cancellation.
+- Fix product name on invoice & reorder.
+- Fix theme options for social links.
+- Fix language advanced plugin.
+- Fix plugin activation.
+- Fix menu contains &amp;
+- Improve editor.
+- Refactor code & improve queries.
+- Update Laravel framework to 8.83.5.
 
 <a name="version_1_21"></a>
 ## HASA 1.21
