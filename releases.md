@@ -1,5 +1,7 @@
 # Release Notes
 
+- [Hasa 1.24](#version_1_24)
+- [Hasa 1.23](#version_1_23)
 - [Hasa 1.22](#version_1_22)
 - [Hasa 1.21](#version_1_21)
 - [Hasa 1.20](#version_1_20)
@@ -27,6 +29,55 @@
 - [Hasa 1.0.1](#version_1_0_1)
 - [Hasa 1.0](#version_1_0)
 
+<a name="version_1_24"></a>
+## HASA 1.24
+### Jul 13, 2022
+- Add Stripe Checkout option. Enable it in Admin -> Payments -> Payment methods.
+- Add option to download available translation files from GitHub.
+- Move folder /resources/lang to /lang.
+- Add order referrals (UTM tracking) https://prnt.sc/sft4o0m2noDJ
+- Add permission to manage license.
+- Add search settings (Admin -> Ecommerce -> Advanced settings).
+- Fix Arabic language (RTL language) in invoice.
+- Fix media URL.
+- Fix order history.
+- Fix PayPal payment gateway.
+- Fix product categories filter.
+- Correct product quantity when placing order, cancel order.
+- Fix RTL style.
+- Prevent issue when deactivating plugin Language.
+- Prevent order creation when payment failed.
+- Improve payment process.
+- Improve admin UI.
+- Improve menu.
+- Improve cache system (fix cache won't be cleared after translating data).
+- Update libraries / third-party package to the latest version.
+- Improve queries performance.
+
+<a name="version_1_23"></a>
+## HASA 1.23
+### May 24, 2022
+- Add custom HTML shortcode.
+- Add text direction toolbar to editor.
+- Add option to add custom HTML to header, body or footer of page.
+- Add option to regenerate media thumbnails from admin panel.
+- Add memory limit & max execution time info to system information page.
+- Add option to add watermark for images in specific folders.
+- Allow to redirect all 404 requests to homepage.
+- Add DB index to some tables.
+- Handle error when activating license.
+- Fix image rotate issue when cropping thumbnails.
+- Fix media download on PHP 8.
+- Fix Admin RTL mode.
+- Improve contact form: add math captcha, blacklist words & domains to prevent spam mails.
+- Improve multi-language.
+- Improve dashboard widgets style & pagination.
+- Improve license system.
+- Improve admin bar.
+- Refactor code.
+- Update libraries.
+- Optimize queries.
+ 
 <a name="version_1_22"></a>
 ## HASA 1.22
 ### Mar 22, 2022
