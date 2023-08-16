@@ -18,21 +18,22 @@ export default [
         ],
     },
     {
-        text: 'Available plugins',
-        items: [
-            { text: 'Backup', link: '/hasa/plugin-backup' },
-        ],
-    },
-    {
         text: 'Usage',
         items: [
-            { text: 'Setup email', link: '/hasa/usage-email' },
+            { text: 'Rename theme', link: '/hasa/theme-rename' },
+            { text: 'Custom CSS/JS', link: '/hasa/usage-custom-css-js' },
+            { text: 'Translation', link: '/hasa/usage-translation' },
+            { text: 'Multi-language', link: '/hasa/usage-multi-language' },
+            { text: 'Currencies', link: '/hasa/usage-currencies' },
+            { text: 'Location', link: '/hasa/usage-location' },
+            { text: 'Google Analytics', link: '/hasa/usage-analytics' },
             { text: 'Media - Setup Amazon S3', link: '/hasa/usage-media-s3' },
             { text: 'Media - Setup BunnyCDN', link: '/hasa/usage-media-bunnycdn' },
             { text: 'Media - Setup Wasabi', link: '/hasa/usage-media-wasabi' },
+            { text: 'Setup email', link: '/hasa/usage-email' },
+            { text: 'Backup', link: '/hasa/plugin-backup' },
+
             { text: 'Setup social login', link: '/hasa/usage-social-login' },
-            { text: 'Analytics', link: '/hasa/usage-analytics' },
-            { text: 'Rename theme', link: '/hasa/theme-rename' },
             { text: 'Location', link: '/hasa/usage-location' },
             { text: 'Invoice template', link: '/hasa/invoice-template' },
         ],
