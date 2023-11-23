@@ -20,7 +20,6 @@ export default [
     {
         text: 'Usage',
         items: [
-            { text: 'Rename theme', link: '/hasa/theme-rename' },
             { text: 'Custom CSS/JS', link: '/hasa/usage-custom-css-js' },
             { text: 'Translation', link: '/hasa/usage-translation' },
             { text: 'Multi-language', link: '/hasa/usage-multi-language' },
@@ -36,4 +35,10 @@ export default [
             { text: 'Invoice template', link: '/hasa/invoice-template' },
         ],
     },
+    {
+        text: 'Development',
+        items: [
+            { text: 'Rename theme', link: '/hasa/theme-rename' },
+        ]
+    }
 ] satisfies DefaultTheme.SidebarItem[];
