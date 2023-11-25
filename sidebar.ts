@@ -29,10 +29,10 @@ export default [
             { text: 'Media - Setup BunnyCDN', link: '/hasa/usage-media-bunnycdn' },
             { text: 'Media - Setup Wasabi', link: '/hasa/usage-media-wasabi' },
             { text: 'Setup email', link: '/hasa/usage-email' },
-
             { text: 'Setup social login', link: '/hasa/usage-social-login' },
             { text: 'Location', link: '/hasa/usage-location' },
             { text: 'Invoice template', link: '/hasa/invoice-template' },
+            { text: 'Setup cronjob', link: '/hasa/cronjob' },
         ],
     },
     {
