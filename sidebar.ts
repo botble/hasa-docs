@@ -33,6 +33,7 @@ export default [
             { text: 'Location', link: '/hasa/usage-location' },
             { text: 'Invoice template', link: '/hasa/invoice-template' },
             { text: 'Setup cronjob', link: '/hasa/cronjob' },
+            { text: 'Newsletter', link: '/hasa/usage-newsletter' },
         ],
     },
     {
