@@ -19,9 +19,9 @@ Homepage: [http://hasa.botble.com](http://hasa.botble.com)
 
 Admin Area: [http://hasa.botble.com/admin](http://hasa.botble.com/admin)
 
-Username: `botble`
+Username: `admin`
 
-Password: `159357`
+Password: `12345678`
 
 ## Why choose us
 
